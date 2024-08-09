@@ -1,4 +1,4 @@
-import UilReact from '@iconscout/react-unicons/icons/uil-react' // imported from Iconscout repository
+import UilReact from '@iconscout/react-unicons/icons/uil-react';
 import './App.css';
 import TopButtons from './components/TopButtons';
 import Inputs from './components/Inputs';
@@ -13,3 +13,4 @@ function App() {
 }
 
 export default App;
+
